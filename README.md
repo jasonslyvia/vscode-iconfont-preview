@@ -2,6 +2,7 @@
 
 Preview your iconfont icon right on the left gutter of VSCode.
 
+![vscode iconfont preview](https://img.alicdn.com/tfs/TB1sLl_dhGYBuNjy0FnXXX5lpXa-1414-1112.png)
 
 ## Requirements
 
