@@ -2,7 +2,7 @@
     "name": "vscode-iconfont-preview",
     "displayName": "Iconfont Previewer",
     "description": "👓 preview your iconfont icon on the gutter",
-    "version": "0.0.1",
+    "version": "0.1.0",
     "publisher": "undefinedvs",
     "engines": {
         "vscode": "^1.20.0"
@@ -15,13 +15,8 @@
         "onLanguage:css"
     ],
     "main": "./out/extension",
+    "icon": "icon.png",
     "contributes": {
-        "commands": [
-            {
-                "command": "extension.sayHello",
-                "title": "Hello World"
-            }
-        ]
     },
     "scripts": {
         "vscode:prepublish": "npm run compile",

@@ -6,7 +6,7 @@ Preview your iconfont icon right on the left gutter of VSCode.
 
 ## Requirements
 
-Currently this extension should be used in conjuction with [iconfont.cn](iconfont.cn), but it should be easy to applied to other kind of iconfont services with svg fallback support.
+Currently this extension should be used in conjunction with [iconfont.cn](iconfont.cn), but it should be easy to applied to other kind of iconfont services with svg fallback support.
 
 ## Release Notes
 
