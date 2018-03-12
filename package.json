@@ -3,6 +3,10 @@
     "displayName": "Iconfont Previewer",
     "description": "👓 preview your iconfont icon on the gutter",
     "version": "0.1.0",
+    "repository": {
+        "type": "github",
+        "url": "https://github.com/jasonslyvia/vscode-iconfont-preview"
+    },
     "publisher": "undefinedvs",
     "engines": {
         "vscode": "^1.20.0"
@@ -16,8 +20,7 @@
     ],
     "main": "./out/extension",
     "icon": "icon.png",
-    "contributes": {
-    },
+    "contributes": {},
     "scripts": {
         "vscode:prepublish": "npm run compile",
         "compile": "tsc -p ./",
